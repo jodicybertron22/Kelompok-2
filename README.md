@@ -1,5 +1,3 @@
-# Alpine - Bootstrap 5 HTML Responsive Ecommerce Template
-
 ## Overview
 For the fashion focused online store, Alpine is a responsive Bootstrap 5 Ecommerce template with a "Ken Burns" effect on the homepage slideshow, angled banners, and a custom image hotspot banner with popout product cards. Large product images on category pages give you ample room for showcasing products while simultaneously providing easy navigation throughout the website. It's the perfect starting point for any fashion retail website, and the template's clean and minimal design means it's easy to modify and painless to integrate with your custom Ecommerce application. And above all, it's free.
 
